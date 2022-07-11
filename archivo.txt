@@ -4,3 +4,5 @@
 Guarde el archivo en el editor. Si es Emacs: CTRLXCTRLS para guardar entonces CTRLXCTRLC para dejar de fumar o si es vi: :wq
 
 Presione esc primero para salir de la edición. (en windows/vi)
+
+lorem ipsus
